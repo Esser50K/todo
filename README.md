@@ -4,13 +4,13 @@ A simple todo application for the terminal.
 
 ## features:
 1. create/remove tasks
-2. daily occuring tasks, depending on weekday, you can always have certain tasks appear, for example:
+2. daily occurring tasks, depending on weekday, you can always have certain tasks appear, for example:
 
         monday - business day             Tuesday - Optimization day
           ☑ check business mail               ☑ Add optimization tasks for today
           ☐ taxes                             ☑ Drink water
 
-## Controlls:
+## Controls:
 
     [in edit mode]
     i:   enter insert mode (make new task)
